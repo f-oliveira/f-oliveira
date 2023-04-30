@@ -14,7 +14,7 @@
     />
   </a>
 
-  <a href="https://www.hackerrank.com/@felipe_noliveir1" target="blank">
+  <a href="https://www.hackerrank.com/felipe_noliveir1" target="blank">
     <img align="center" 
       src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" 
       alt="@felipe_noliveir1" 

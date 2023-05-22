@@ -4,8 +4,6 @@
 
 - 📫 How to reach me **felipe.noliveira19@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-
 <div>
    
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
